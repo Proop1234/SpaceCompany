@@ -433,9 +433,9 @@ function updateCost(){
 	moonDrillGemCost = Math.floor(600 * Math.pow(1.1,moonDrill));
 	moonDrillMetalCost = Math.floor(1000 * Math.pow(1.1,moonDrill));
 
-	moonQuarrySiliconCost = Math.floor(3500 * Math.pow(1.1,moonQuarry));
-	moonQuarryGemCost = Math.floor(5000 * Math.pow(1.1,moonQuarry));
-	moonQuarryLunariteCost = Math.floor(8000 * Math.pow(1.1,moonQuarry));
+	moonQuarrySiliconCost = Math.floor(3000 * Math.pow(1.1,moonQuarry));
+	moonQuarryGemCost = Math.floor(4000 * Math.pow(1.1,moonQuarry));
+	moonQuarryLunariteCost = Math.floor(2000 * Math.pow(1.1,moonQuarry));
 
 	planetExcavatorMeteoriteCost = Math.floor(500 * Math.pow(1.1,planetExcavator));
 	planetExcavatorIceCost = Math.floor(37000 * Math.pow(1.1,planetExcavator));
